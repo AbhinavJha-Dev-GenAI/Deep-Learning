@@ -1,34 +1,48 @@
-﻿# Deep-Learning ðŸ§ 
+﻿# Deep-Learning
 
 **Target Level**: 2-3 Year ML/AI Engineer  
-**Priority**: ðŸ—ï¸ **CORE**
+**Priority**: **CORE**
 
 ---
 
-## ðŸ“š What You'll Learn
-The mechanics of Neural Networks from basic Perceptrons to advanced architectures.
+## 🚀 Repository Overview
+This repository is a comprehensive curriculum for Deep Learning, moving from first principles (Perceptrons) to modern architectures (Transformers, Transfer Learning). Each section contains **Detailed Documentation** and **Functional Code Implementations**.
 
-### Core Topics
-- âœ… **Fundamentals**: Backpropagation, Activation Functions (ReLU, GELU, Swish)
-- âœ… **Optimization**: Adam, RMSProp, Scheduler strategies
-- âœ… **Regularization**: Batch Norm, Layer Norm, Dropout
-- âœ… **CNNs**: Image processing and Vision architectures
-- âœ… **RNNs/LSTMs**: Sequential data handling
-- âœ… **Transfer Learning**: Leveraging pre-trained weights
+### 1. [Neural Network Fundamentals](01-Neural-Network-Fundamentals/README.md) 🧠
+- **Docs**: Perceptrons, MLP, Backpropagation, Activations.
+
+### 2. [Optimization](02-Optimization-in-DL/README.md) ⚡
+- **Docs**: SGD, Adam, Learning Rate Schedulers.
+
+### 3. [Regularization](03-Regularization-Techniques/README.md) 🛡️
+- **Docs**: Dropout, BatchNorm, L1/L2, Early Stopping.
+
+### 4. [Computer Vision (CNNs)](04-CNN-Computer-Vision/README.md) 👁️
+- **Docs**: CNN Basics, ResNet, YOLO.
+
+### 5. [Sequential Data (RNNs)](05-RNN-Sequential-Data/README.md) 📜
+- **Docs**: RNNs, LSTMs, GRUs.
+
+### 6. [Transfer Learning](06-Transfer-Learning/README.md) 🏗️
+- **Docs**: Feature Extraction vs Fine-Tuning.
+
+### 7. [DL Projects](07-Projects/README.md) 🚀
+- **Docs**: MNIST from scratch, Dog vs. Cat, LSTM Text.
+
+### 8. [Research Papers](08-Research-Papers/README.md) 📚
+- **Docs**: AlexNet, ResNet, Adam, Dropout.
+
+### 9. [Interview Prep](09-Interview-Prep/README.md) 🎓
+- **Docs**: Theoretical Q&A, Architecture deep-dives.
 
 ---
 
-## ðŸŽ¯ Learning Path
-1. **The Math of Backprop**: Understand the chain rule in computation graphs.
-2. **Advanced CV**: Master architectures like ResNet, EfficientNet, and YOLO.
-3. **Regularization Mastery**: Learn how to stabilize deep network training.
-4. **Framework Proficiency**: Become an expert in PyTorch or TensorFlow.
+## 🛠️ Key Tools
+- **Frameworks**: PyTorch, NumPy
+- **Visualization**: Matplotlib
+- **Mathematical Intuition**: Structured technical breakdowns.
 
 ---
 
-## ðŸ› ï¸ Tools
-- PyTorch, TensorFlow, Keras, TensorBoard
-
----
-
-Happy Deep Diving! ðŸš€
+Happy Deep Diving! 🚀
+ðŸš€
